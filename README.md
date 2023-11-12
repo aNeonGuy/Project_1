@@ -17,10 +17,10 @@ An analysation include:
  - checking if a number is a square
  - checking if a number is a cube
 The rules:
- - in the number input field, enter only numbers using numbers, not words
- - in the operation or analysis input field, enter the number indicated on the right
- - if you need to enter letters, use capital English letters
- - if you want to continue, write “Yes” without quotation marks in response
+ - in the number input field, enter only numbers using numbers, not words.
+ - in the operation or analysis input field, enter the number indicated on the right.
+ - if you need to enter letters, use capital English letters.
+ - if you want to continue, write “Yes” without quotation marks in response.
 Now the program is only on russian, but it will have new versions
 _________________________________________________________________________________________________________________________________________________________________________
 Привет, это калькулятор ! Он может:
